@@ -4,3 +4,9 @@
 # We will use pytest to test our program
 
 pytest
+
+# might need these for optional bonus
+
+# pandas
+
+# plotly
