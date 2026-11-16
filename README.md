@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Command Land App
+### Command Line App
 
 some commands here to run our file(s)
 
@@ -78,6 +78,8 @@ FLASK_APP=web_app flask run
 export FLASK_APP=web_app
 flask run
 ```
+
+use “control+c” from the terminal to stop the local server and get back to the normal command line
 
 ## Testing
 
