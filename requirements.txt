@@ -10,3 +10,6 @@ pytest
 
 # web app:
 flask
+
+# production server:
+gunicorn
